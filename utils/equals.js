@@ -4,3 +4,6 @@ const compareFunc = (a, b) =>
     a.every((element, index) => element === b[index]);
 
 export {compareFunc}
+
+
+
